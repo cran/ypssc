@@ -7,7 +7,7 @@ Description: An extension for 'NetSurfP-2.0' (Klausen et al. (2019) <doi:10.1002
     This tool is designed to process a large number of yeast peptides that produced as a
     results of whole yeast cell-proteome digestion and provide a coherent picture of
     secondary structure of proteins.
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: c(
     person(given = "Sajad",
         family   = "Tasharofi",
@@ -32,14 +32,14 @@ Authors@R: c(
 License: GPL (>= 3)
 Encoding: UTF-8
 StagedInstall: yes
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Suggests: rmarkdown, testthat (>= 3.0.0)
 Imports: spelling, dplyr, readxl, stringr, eulerr, Peptides, utils,
         svDialogs, tcltk
 Depends: R (>= 2.10)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2021-11-18 01:46:45 UTC; Shashank
+Packaged: 2021-11-27 21:48:29 UTC; Shashank
 Author: Sajad Tasharofi [aut, cph],
   Shashank Kumbhare [aut, cre, cph],
   Bent Petersen [aut],
@@ -47,4 +47,4 @@ Author: Sajad Tasharofi [aut, cph],
   Amir Shahmoradi [aut]
 Maintainer: Shashank Kumbhare <shashank.kumbhare@mavs.uta.edu>
 Repository: CRAN
-Date/Publication: 2021-11-19 06:50:02 UTC
+Date/Publication: 2021-11-27 22:10:03 UTC
